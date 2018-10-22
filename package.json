@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/translate": "^2.1.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "googleapis": "^34.0.0",
     "line-in": "^0.1.2",
     "watson-developer-cloud": "^3.12.0"
   }
